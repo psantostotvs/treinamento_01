@@ -1,2 +1,2 @@
-# treinamento_01
+# Treinamento 01
 Repositório para workshop
